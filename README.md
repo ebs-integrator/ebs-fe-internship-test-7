@@ -27,5 +27,4 @@
 
 The screens with pages are not just example, make your pages similar as possible.
 
-### Note:
 [Design source](https://www.deezer.com/us/album/162030402?utm_source=deezer&utm_content=album-162030402&utm_term=3495238764_1596749089&utm_medium=web)
