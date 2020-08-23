@@ -12,6 +12,7 @@
 9. [Storybook](https://storybook.js.org/)
 10. Atomic Design Pattern (ask your mentor firstly)
 11. React Testing Library
+12. SASS
 
 ## Requirements (Todo):
 1. [Create Stream page](https://prnt.sc/u4d36c)
