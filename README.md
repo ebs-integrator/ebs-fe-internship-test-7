@@ -20,10 +20,15 @@
 1. [Create Stream page](resources/1.png)
 2. [Create Track Profile page](resources/2.png)
 3. [Create player](resources/3.png)
+
    3.1. Add possibility to repeat a song
+   
    3.2. Add possibility to play randomly
+   
    3.3. Add possibility to change volume
+   
    3.4. [These buttons should have functionality and be disabled if it's necessary](resources/4.png)
+  
 4. Every atom & organism should be documented on storybook
 5. Every atom & organism should have unit tests using React Testing Library
 
